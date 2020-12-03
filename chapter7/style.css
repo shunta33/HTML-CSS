@@ -25,6 +25,10 @@ main {
   padding-top: 20px;
 }
 
+.contents-list {
+  margin-bottom: 50px;
+}
+
 .contents-box {
   width: 840px;
   padding: 30px 0;
